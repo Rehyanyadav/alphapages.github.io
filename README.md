@@ -1,7 +1,7 @@
 
 ## Alpha Codes Logo
 
-![Alpha Codes Logo](Screenshot_1715025898.png)
+![Alpha Codes Logo](logo1.png)
 
 
 # Alpha Codes
