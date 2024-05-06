@@ -1,7 +1,7 @@
 
 ## Alpha Codes Logo
 
-![Alpha Codes Logo](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alpha Codes Logo](Screenshot_1715025898.png)
 
 
 # Alpha Codes
