@@ -1,6 +1,6 @@
 {
-    "name": "alphacodes",
-    "short_name": "alphacodes",
+    "name": "webproject",
+    "short_name": "webproject",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
