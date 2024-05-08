@@ -76965,7 +76965,7 @@ A.afi.prototype={
 $1(a){return B.ic},
 $S:68}
 A.afD.prototype={
-$0(){A.e4(A.cf("https://docs.google.com/forms/d/1fgA1Gf4iMOkaQuR5qdLxydjWV_1cwsZMpVUOEqR6RIU/edit",0,null))},
+$0(){A.e4(A.cf("https://docs.google.com/forms/d/e/1FAIpQLSf8pGhE6fJxsRcLE7qTPSoG8y0B1ASaMvCM0Dy6Sy7t8fi0Xw/viewform?usp=sf_link",0,null))},
 $S:0}
 A.afE.prototype={
 $0(){},
